@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://again-swz9.onrender.com",
+  "proxy": "https://backagain.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
